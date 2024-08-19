@@ -6,4 +6,4 @@
 ###eu conheci numa plataforma incrivel chamada alura diretamente do cmsp- centro de midias, e uma plataforma digital que usamos na escola nas aulas de tecnologia, la estava a explicaçao ###completa , e qualquer duvidas tivemos o auxilio de nosso queridissimo professor. 
 
 *passo 1*
-### primeiro nos entndemos como funciona cada etapa e cada comando que usamos para funcionar. Cada processo que queremos que aconteça
+###primeiro nos entndemos como funciona cada etapa e cada comando que usamos para funcionar. Cada processo que queremos que aconteça
